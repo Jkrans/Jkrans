@@ -1,7 +1,10 @@
-### Hi there 👋
+### Jeremy Krans
 
 **`Indie Full Stack Developer & Entrepreneur`**
 
+I'm an Indie Full Stack Developer and Entrepreneur with a passion for creating interactive web experiences. As a recent computer science graduate, what I've been up to lately is channeling my love for coding, learning, and storytelling into designing virtual escape rooms for kids. With each project, I craft engaging narratives and blend them with user-friendly designs, building everything from scratch using React, CSS, HTML, Node.js, PostgreSQL, and Express. My work also extends to image editing and story writing, adding a personal touch to the escape rooms I develop and sell access to online. 
+
+I'm in the early stages of monetizing my passion, my virtual worlds are gaining traction and enriching educational experiences for children. I manage the full lifecycle of my web applications, hosting backends on Railway and frontends on Netlify.
 <!--
 **Jkrans/Jkrans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
