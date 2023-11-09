@@ -8,6 +8,8 @@ I'm in the early stages of monetizing this passion. I manage the full lifecycle 
 
 While I'm passionate about building my projects, I'm also open to exciting opportunities that can complement my journey. I am keen to collaborate, learn, and contribute in a professional environment while continuing to nurture my entrepreneurial endeavors. I'm eager to explore roles where I can apply my diverse skill set in full stack development and creative problem-solving.
 
+"[My Portfolio][website]"
+
 ---
 
 ### 🧰 Languages and Tools
@@ -42,3 +44,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[website]: https://jeremykrans.com
