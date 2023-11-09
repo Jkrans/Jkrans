@@ -27,7 +27,7 @@ While I'm passionate about building my projects, I'm also open to exciting oppor
 
 ### Where to find me
 
-🌱 [JeremyKrans.com][website]
+🌱 [JeremyKrans.com][website] <br />
 📫 JeremyKrans@gmail.com
 
 <!--
