@@ -8,7 +8,7 @@ I'm in the early stages of monetizing this passion. I manage the full lifecycle 
 
 While I'm passionate about building my projects, I'm also open to exciting opportunities that can complement my journey. I am keen to collaborate, learn, and contribute in a professional environment while continuing to nurture my entrepreneurial endeavors. I'm eager to explore roles where I can apply my diverse skill set in full stack development and creative problem-solving.
 
-"[My Portfolio][website]"
+
 
 ---
 
@@ -27,7 +27,11 @@ While I'm passionate about building my projects, I'm also open to exciting oppor
 <img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
+---
 
+### Where to find me
+🌱 [JeremyKrans.com][website]
+📫 JeremyKrans@gmail.com
 
 
 <!--
