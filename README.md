@@ -23,6 +23,7 @@ While I'm passionate about building my projects, I'm also open to exciting oppor
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://www.freewear.org/images/articles/detail/FW0548_Dise%C3%B1o.png" />
 <img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/1051/1051275.png" />
+<img align="left" alt="PhotoShop" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" />
 <br />
 
 ---
