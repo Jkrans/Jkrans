@@ -2,11 +2,11 @@
 
 **`Indie Full Stack Developer & Entrepreneur`**
 
-I'm an Indie Full Stack Developer and Entrepreneur with a passion for creating interactive web experiences. As a recent computer science graduate, what I've been up to lately is channeling my love for coding, learning, and storytelling into designing virtual escape rooms for kids. With each project, I craft engaging narratives and blend them with user-friendly designs, building everything from scratch using React, CSS, HTML, Node.js, PostgreSQL, and Express. My work also extends to editing in photoshop and story writing, adding a personal touch to the escape rooms I develop and sell access to online. 
+I'm an Indie Full Stack Developer and Entrepreneur with a passion for creating interactive web experiences. A recent computer science graduate, lately I've been channeling my love for coding, learning, and storytelling into designing virtual escape rooms for kids. With each project, I craft engaging narratives and blend them with user-friendly designs, building everything from scratch using React, CSS, HTML, Node.js, PostgreSQL, and Express. My work also extends to editing in photoshop and story writing, adding a personal touch to the escape rooms I develop and sell access to online. 
 
 I'm in the early stages of monetizing this passion. I manage the full lifecycle of my web applications, hosting backends on Railway and frontends on Netlify.
 
-While I'm passionate about building my projects, I'm also open to exciting opportunities that can complement my journey. I am keen to collaborate, learn, and contribute in a professional environment while continuing to nurture my entrepreneurial endeavors. I'm eager to explore roles where I can apply my diverse skill set in full stack development and creative problem-solving.
+While I'm passionate about building my projects, I'm also open to exciting opportunities that can complement my journey. I am keen to collaborate, learn, and contribute in a professional environment while continuing to nurture my entrepreneurial endeavors. I'm eager to explore roles where I can apply my diverse skill set in development and creative problem-solving.
 
 ---
 
