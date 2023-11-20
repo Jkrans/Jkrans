@@ -6,7 +6,7 @@ I'm an Indie Full Stack Developer and Entrepreneur with a passion for creating i
 
 I'm in the early stages of monetizing this passion. I manage the full lifecycle of my web applications, hosting backends on Railway and frontends on Netlify.
 
-While I'm passionate about building my projects, I'm also open to exciting opportunities that can complement my journey. I am keen to collaborate, learn, and contribute in a professional environment while continuing to nurture my entrepreneurial endeavors. I'm eager to explore roles where I can apply my diverse skill set in development and creative problem-solving.
+While I'm passionate about building my projects, I'm very open to exciting opportunities that can complement my journey. I am keen to collaborate, learn, and contribute in a professional environment while continuing to nurture my entrepreneurial endeavors. I'm eager to explore roles where I can apply my diverse skill set in development and creative problem-solving.
 
 ---
 
